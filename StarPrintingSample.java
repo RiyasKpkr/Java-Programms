@@ -13,7 +13,7 @@ public class StarPrintingSample {
         {
             for(int j=0;j<i;j++)
             {
-                System.out.println(" * ");
+                System.out.print(" * ");
             }
             System.out.println();
         }

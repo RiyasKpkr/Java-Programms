@@ -10,7 +10,7 @@ public class ReverseStarPrintingSample {
 
         for (int i = 1; i <=n; i++) {
             for (int j = i; j <= n; j++) {
-                System.out.println("x");
+                System.out.print("x");
             }
             System.out.println();
         }
